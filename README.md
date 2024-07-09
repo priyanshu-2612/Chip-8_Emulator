@@ -20,7 +20,7 @@ Step 3: Click play.
 
 ## Keyboard Mapping
 
-| Chip-8 key    | Heading     |
+| Chip-8 key    | Mapped Key  |
 | ------------- | ----------- |  
 | 1             | 1           |
 | 2             | 2           |
