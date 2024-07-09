@@ -44,6 +44,7 @@ Step 3: Click play.
 ![image](https://github.com/priyanshu-2612/Chip-8_Emulator/assets/136080688/f800e6ed-8eea-4563-a20b-a1e37ba4d9e7)
 ![image](https://github.com/priyanshu-2612/Chip-8_Emulator/assets/136080688/6c9f39bb-3058-4daf-b2d5-dc02e0fa073c)
 ![image](https://github.com/priyanshu-2612/Chip-8_Emulator/assets/136080688/08896389-3680-47ee-ba59-3d6cdbc0420d)
+![image](https://github.com/priyanshu-2612/Chip-8_Emulator/assets/136080688/9514a7b6-585f-48c8-bbc8-c4a8250f2a4e)
 ![image](https://github.com/priyanshu-2612/Chip-8_Emulator/assets/136080688/9fc61323-2fee-48a9-b622-a099eab0c1d5)
 
 ## Acknowledgements
