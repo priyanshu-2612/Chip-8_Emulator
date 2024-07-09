@@ -84,9 +84,9 @@ public class Launch extends Application {
         });
 
         //mainStage.setScene(mainScene);
-        mainStage.setMaxWidth(64*12);
+        mainStage.setMaxWidth(64*12.5);
         mainStage.setMaxHeight(32*13);
-        mainStage.setMinWidth(64*12);
+        mainStage.setMinWidth(64*12.5);
         mainStage.setMinHeight(32*13);
         mainStage.setResizable(false);
 
@@ -129,7 +129,7 @@ public class Launch extends Application {
         mainStage.setScene(mainScene);
         Image bck = new Image("file:src/main/resources/Ocean.png");
         bckgr = new ImageView(bck);
-        bckgr.setFitWidth(64*12.2);
+        bckgr.setFitWidth(64*12.5);
         bckgr.setFitHeight(32*13);
         //root.getChildren().addAll(bckgr,Ui_Elements.comboBox,Ui_Elements.playbutton,Ui_Elements.loadbutton);
         root.getChildren().add(bckgr);
