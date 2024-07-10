@@ -13,10 +13,10 @@
 
 ## How to use
 
-Step 1: Clone the repository to your local system
-Step 2: Use IntelliJ or Eclipse to run the code.
-Step 3: Load a Game ROM , which you can downlaod from [here](https://github.com/kripod/chip8-roms/tree/master/games) into the emulator. 
-Step 3: Click play.
+Step 1: Clone the repository to your local system.<br>
+Step 2: Use IntelliJ or Eclipse to run the code.<br>
+Step 3: Load a Game ROM , which you can downlaod from [here](https://github.com/kripod/chip8-roms/tree/master/games) into the emulator. <br>
+Step 3: Click play.<br>
 
 ## Keyboard Mapping
 
